@@ -16,7 +16,7 @@ function Slider() {
   }
 
   return (
-    <div className="relative h-96 bg-gray-600 text-left outline outline-8 outline-offset-[16px] outline-gray-100">
+    <div className="relative h-96 bg-gray-600 text-left outline outline-8 outline-offset-[4px] outline-gray-100 md:outline-offset-[16px]">
       <Image />
 
       <Slides curSlide={curSlide} />
