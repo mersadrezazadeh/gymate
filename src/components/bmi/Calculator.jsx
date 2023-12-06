@@ -1,7 +1,5 @@
 import { useEffect, useState } from "react";
 
-// const textboxText = textboxText.replace(/^0+/, "");
-
 function calcBmi(weight, height) {
   const convertedHeight = height / 100;
   const bmi = (weight / convertedHeight ** 2).toFixed(1);
@@ -47,7 +45,7 @@ function Calculator() {
           type="number"
           min={1}
           placeholder="Weight / kg"
-          className="focus w-40 border-2 bg-transparent p-3 font-bold text-white placeholder:font-regular placeholder:text-gray-150"
+          className="focus w-32 border-2 bg-transparent p-3 font-bold text-white placeholder:font-regular placeholder:text-gray-150 lg:w-40"
           value={weight || ""}
           onChange={handleWeight}
           required
@@ -56,7 +54,7 @@ function Calculator() {
           type="number"
           min={1}
           placeholder="Height / cm"
-          className="focus w-40 border-2 bg-transparent p-3 font-bold text-white placeholder:font-regular placeholder:text-gray-150"
+          className="focus w-32 border-2 bg-transparent p-3 font-bold text-white placeholder:font-regular placeholder:text-gray-150 lg:w-40"
           value={height || ""}
           onChange={handleHeight}
           required
