@@ -5,7 +5,7 @@ import water from "../../images/choose-us/water.png";
 
 function Features() {
   return (
-    <div className="mb-20 grid grid-cols-2 gap-6 text-center">
+    <div className="mb-20 grid gap-10 text-center md:grid-cols-2 md:gap-6">
       <div className="flex items-center justify-center gap-4">
         <img
           src={training}
