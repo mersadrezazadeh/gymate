@@ -47,24 +47,23 @@
 
 /* Firefox */
 * {
-  scrollbar-width: thin;
+  scrollbar-width: auto;
   scrollbar-color: #a0a0a0 #ffffff;
   scroll-behavior: smooth;
 }
 
 /* Chrome, Edge and Safari */
 *::-webkit-scrollbar {
-  width: 12px;
-  width: 12px;
+  width: auto;
 }
 
 *::-webkit-scrollbar-track {
-  border-radius: 5px;
+  border-radius: 100px;
   background-color: #ffffff;
 }
 
 *::-webkit-scrollbar-thumb {
-  border-radius: 80px;
+  border-radius: 100px;
   background-color: #ff0336;
   border: 1.5px solid #fff;
 }
