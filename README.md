@@ -10,6 +10,7 @@
 
 <h3>Built with:</h3>
 
+
 🔨 Tailwind CSS <br>
 🔨 React JS
 
@@ -18,5 +19,5 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/mersad98/gymate/assets/141646504/5be0db57-2531-4252-b603-172f721271f5'
+<img src='https://github.com/mersad98/gymate/assets/141646504/0f7e37b0-58ca-4065-9dcd-6b00b19b0104'
 </div>
