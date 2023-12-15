@@ -5,7 +5,7 @@ import Customers from "./Customers";
 
 function Testimonials() {
   return (
-    <section className="px-6 py-32 text-center">
+    <section className="overflow-x-clip px-6 py-32 text-center">
       <div className="container space-y-20 xl:space-y-32">
         <div>
           <SecondaryHeading>Testimonials</SecondaryHeading>

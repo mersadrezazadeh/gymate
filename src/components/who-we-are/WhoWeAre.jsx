@@ -6,7 +6,7 @@ import RunningGirl from "./RunningGirl";
 
 function WhoWeAre() {
   return (
-    <section className="bg-[url('./images/who-we-are/background.webp')] px-6 pb-32">
+    <section className="overflow-x-clip bg-[url('./images/who-we-are/background.webp')] px-6 pb-32">
       <div className="container space-y-32">
         <FeatureCards />
 
