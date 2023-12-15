@@ -9,6 +9,7 @@ import Contact from "./Pages/Contact";
 import Pricing from "./Pages/Pricing";
 import Classes from "./Pages/Classes";
 import Footer from "./components/footer/Footer";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="classes" element={<Classes />} />
       </Routes>
       <Footer />
+      <ScrollToTop />
     </>
   );
 }
