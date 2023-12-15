@@ -4,7 +4,7 @@ import Classes from "./Classes";
 
 function FeaturedClass() {
   return (
-    <section className="px-6 py-32 text-center">
+    <section className="overflow-hidden px-6 py-32 text-center">
       <div className="container">
         <SecondaryHeading>Our featured class</SecondaryHeading>
 
