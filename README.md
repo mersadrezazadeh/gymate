@@ -1,22 +1,21 @@
-<div align='center'><img style="width:30%"/ src="./src/images/logo/logo.svg"></div>
+# Gymate
 
-<h2>About the project</h2>
+If you’re looking for a website for your gym, Gymate is a great option. It has a clean and modern look, and comes with useful features like a built-in timetable and a BMI calculator. Gymate is also responsive to all devices, so users can view the site on any screen size.
 
-  <p><b>Gymate</b> provides a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
+Credits for the design go to: <a href='https://www.radiustheme.com/'>RadiusTheme</a>
 
-<p>Credits for the design goes to: <a href='https://www.radiustheme.com/'>RadiusTheme</a></p>
+## Tech Stack
 
-🟢 Live Demo: <a href='https://gymate-mersad.netlify.app/'>Click Here!</a>
+Vite<br/>
+React<br/>
+JavaScript<br/>
+TailwindCSS<br/>
 
-<h3>Built with:</h3>
+## Demo
 
+<a href='https://car-rental-mersad.netlify.app/' target="_blank">hotel-admin-mersad.netlify.app</a>
 
-🔨 Tailwind CSS <br>
-🔨 React JS
-
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
+## Screenshot
 
 <div align='center'>
 <img src='https://github.com/mersad98/gymate/assets/141646504/0f7e37b0-58ca-4065-9dcd-6b00b19b0104'
