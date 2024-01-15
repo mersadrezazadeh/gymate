@@ -13,7 +13,7 @@ TailwindCSS<br/>
 
 ## Demo
 
-<a href='https://car-rental-mersad.netlify.app/' target="_blank">hotel-admin-mersad.netlify.app</a>
+<a href='https://gymate-mersad.netlify.app/'>gymate-mersad.netlify.app</a>
 
 ## Screenshot
 
